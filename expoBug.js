@@ -1,0 +1,3 @@
+This error occurs when using the Expo CLI with a project that has an unusual or unexpected file structure or configuration.  For example, if you have multiple app.json files in different directories, or if your project uses a non-standard build system, Expo might have trouble correctly identifying the project root or resolving dependencies.
+
+Another potential cause is conflicting or outdated dependencies in your project's package.json file. This could lead to unexpected behavior or errors during the build process.  If you've recently upgraded or changed dependencies, this is a strong possibility.
